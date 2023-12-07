@@ -1,8 +1,8 @@
-# 💫 Résumé:
-Enthousiaste du code et des possibilités infinies du monde numérique, je suis un développeur d'applications passionné par l'art de transformer des idées en réalités interactives. Avec plus de 3 ans d'expérience dans le domaine du développement, je suis constamment inspiré par les nouvelles technologies et les défis stimulants qu'elles apportent.<br><br>Mon expertise se concentre sur le développement d'applications mobiles, ainsi que sur la création de solutions web innovantes. J'ai acquis une maîtrise approfondie des langages de programmation tels que C#, Java, Python, Dart, PHP, ce qui me permet de construire des applications fluides, performantes et hautement évolutives.<br><br>Tout au long de ma carrière, j'ai eu la chance de collaborer avec des équipes talentueuses sur des projets diversifiés. Ces expériences enrichissantes m'ont permis de perfectionner mes compétences en communication et en travail d'équipe, ainsi que de m'adapter efficacement aux environnements agiles et dynamiques.<br>
+# 💫 Summary:
+Enthusiastic about code and the infinite possibilities of the digital world, I'm an application developer passionate about the art of transforming ideas into interactive realities. With over 3 years' experience in development, I'm constantly inspired by new technologies and the stimulating challenges they bring.<br><br>My expertise focuses on the development of mobile applications, as well as the creation of innovative web solutions. I've acquired in-depth expertise in programming languages such as C#, Java, Python, Dart and PHP, enabling me to build fluid, high-performance and highly scalable applications.<br><br>Throughout my career, I've had the chance to work with talented teams on a wide variety of projects. These enriching experiences have enabled me to hone my communication and teamwork skills, as well as adapt effectively to agile and dynamic environments.<br>
 
 
-## 🌐 Réseaux sociaux:
+## 🌐 Social networking:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wilfried-honyiglo-a3b038249/) 
 
 # 💻 Technologies:
