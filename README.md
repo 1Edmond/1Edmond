@@ -1,7 +1,10 @@
 # 💫 Summary:
-Enthusiastic about code and the infinite possibilities of the digital world, I'm an application developer passionate about the art of transforming ideas into interactive realities. With over 3 years' experience in development, I'm constantly inspired by new technologies and the stimulating challenges they bring.<br><br>My expertise focuses on the development of mobile applications, as well as the creation of innovative web solutions. I've acquired in-depth expertise in programming languages such as C#, Java, Python, Dart and PHP, enabling me to build fluid, high-performance and highly scalable applications.<br><br>Throughout my career, I've had the chance to work with talented teams on a wide variety of projects. These enriching experiences have enabled me to hone my communication and teamwork skills, as well as adapt effectively to agile and dynamic environments.<br>
-
-
+Enthusiastic about code and the infinite possibilities of the digital world, I'm a Full-Stack Developer specialized in C# .NET with a passion for transforming complex ideas into powerful, user-friendly applications. With over 3 years of hands-on experience in mobile and web development, I have consistently leveraged modern technologies to deliver scalable, high-performance solutions.
+<br><br>
+My expertise lies primarily in C#/.NET, Java, and Python, with a focus on building robust backend architectures and intuitive user interfaces. I thrive in agile environments and enjoy collaborating with teams to create impactful software products that meet real-world needs.
+<br><br>
+During my career, I’ve successfully developed a wide range of applications, from mobile cryptography tools to enterprise-level web applications, consistently pushing the boundaries of innovation. These experiences have sharpened my skills in communication, problem-solving, and adaptability, allowing me to seamlessly navigate the challenges of modern software development
+<br><br>
 ## 🌐 Social networking:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wilfried-honyiglo-a3b038249/) 
 
